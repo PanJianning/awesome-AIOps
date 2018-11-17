@@ -32,7 +32,7 @@
 * [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
 -------------------------------------------------------------------------------
 * [百度智能流量监控实战](https://ppt.geekbang.org/slide/show?cid=30&pid=1548)
-* [异常检测：百度是这样做的](https://mp.weixin.qq.com/s/AXhjawsINKl6cLDV1yf6fw)
+* [异常检测：百度是这样做的](https://mp.weixin.qq.com/s/AXhjawsINKl6cLDV1yf6fw)  [PPT](https://www.ccf.org.cn/upload/resources/file/2017/09/20/39186.pdf)
 * [Next Generation of DevOps AIOps in Practice @Baidu](https://www.usenix.org/sites/default/files/conference/protected-files/srecon17asia_slides_qu.pdf) [[video]](https://www.youtube.com/watch?v=5YfqevEtIFw)
 -------------------------------------------------------------------------------
 * [搭建大规模高性能的时间序列大数据平台](https://ppt.geekbang.org/list/assz2018)
