@@ -29,6 +29,7 @@
 * [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
 * [腾讯织云Metis智能运维学件平台开源代码](https://github.com/Tencent/Metis)
 * [干货 | AIOps在携程的践行](https://cloud.tencent.com/developer/article/1157123)
+* [ T4 级老专家：AIOps 在腾讯的探索和实践 ](https://kuaibao.qq.com/s/20180820B078MM00?refer=spider)
 -------------------------------------------------------------------------------
 * [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
 -------------------------------------------------------------------------------
