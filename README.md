@@ -28,6 +28,7 @@
 * [AI 时代下腾讯的海量业务智能监控实践](https://cloud.tencent.com/developer/article/1039354)
 * [织云Metis时间序列异常检测全方位解析](https://ppt.geekbang.org/slide/show?cid=30&pid=1595)
 * [腾讯织云Metis智能运维学件平台开源代码](https://github.com/Tencent/Metis)
+* [干货 | AIOps在携程的践行](https://cloud.tencent.com/developer/article/1157123)
 -------------------------------------------------------------------------------
 * [阿里全链路监控方案](https://mp.weixin.qq.com/s/DJhJKD4TCDgSwyLZbSotKg)
 -------------------------------------------------------------------------------
